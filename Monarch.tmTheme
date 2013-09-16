@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
-	Monarch
-	v0.1.0 | 2013-10-15
+	Monarch v0.1.0
 	by Eric Magnuson
 	http://eri.cm/monarch
 	============================================
-	License: GPL v2
+	Based off Peacock by Dayle Rees
+	Released under the MIT License <http://opensource.org/licenses/MIT>
 	============================================
 	Made with help from tmTheme Editor:
 	http://tmtheme-editor.herokuapp.com
