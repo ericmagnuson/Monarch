@@ -31,7 +31,7 @@
 				<key>lineHighlight</key>
 				<string>#403C37</string>
 				<key>selection</key>
-				<string>#979799</string>
+				<string>#494949</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
@@ -212,6 +212,19 @@
 			<string>Tag name</string>
 			<key>scope</key>
 			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag name</string>
+			<key>scope</key>
+			<string>meta.tag, declaration.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
