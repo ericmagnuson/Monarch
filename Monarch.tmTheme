@@ -566,6 +566,17 @@
 				<string>#eb9500</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>less font names</string>
+			<key>scope</key>
+			<string>support.constant.font-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c9e22d</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>GA4CCF34-S843-FK4F-JF0D-SF8439HF8723</string>
