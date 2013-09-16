@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
-	Monarch v0.1.0
+	Monarch v0.1.1
 	by Eric Magnuson
 	http://eri.cm/monarch
 	============================================
@@ -395,6 +395,175 @@
 			<dict>
 				<key>foreground</key>
 				<string>#f5ea7c</string>
+			</dict>
+		</dict>
+		<!-- CSS -->
+		<dict>
+			<key>name</key>
+			<string>css tag-name</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css #id</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.other.attribute-name.id</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css .class</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.other.attribute-name.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css property-name:</string>
+			<key>scope</key>
+			<string>support.type.property-name.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff633c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css :pseudo-element</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.pseudo-class.ui-state.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css property-value;</string>
+			<key>scope</key>
+			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css, keyword.other.unit.css, constant.other.color.rgb-value.css, constant.character.escape.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c9e22d</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css @at-rule</string>
+			<key>scope</key>
+			<string>meta.preprocessor.at-rule keyword.control.at-rule</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F6AA11</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css additional-constants</string>
+			<key>scope</key>
+			<string>meta.property-value support.constant.named-color.css, meta.property-value constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c9e22d</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css constructor.argument</string>
+			<key>scope</key>
+			<string>meta.constructor.argument.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EB939A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>css !important</string>
+			<key>scope</key>
+			<string>keyword.other.important.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eb9500</string>
+			</dict>
+		</dict>
+		<!-- LESS -->
+		<dict>
+			<key>name</key>
+			<string>less .mixins()</string>
+			<key>scope</key>
+			<string>entity.other.less.mixin</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>less html tags</string>
+			<key>scope</key>
+			<string>keyword.control.html.elements</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>less .class</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>less #class</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.id</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#29b1b1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>less !important</string>
+			<key>scope</key>
+			<string>keyword.operator.less</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eb9500</string>
 			</dict>
 		</dict>
 	</array>
