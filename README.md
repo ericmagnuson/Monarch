@@ -2,6 +2,8 @@ Monarch
 =======
 *Monarch, a theme for Sublime Text.*
 
+Use VS instead of Sublime? [Download a VS port of Monarch](https://ericmagnuson.me/files/monarch_vs_code.zip) courtesy of @MiloradFilipovic (Thanks! 🍻)
+
 ## Install
 
 Find and install the *Monarch* package using [Package Control](https://sublime.wbond.net), or manually clone this repo into your Sublime Text's `Packages` folder.
