@@ -2,7 +2,7 @@ Monarch
 =======
 *Monarch, a theme for Sublime Text.*
 
-Use VS instead of Sublime? [Download a VS port of Monarch](https://ericmagnuson.me/files/monarch_vs_code.zip) courtesy of [@MiloradFilipovic](https://github.com/MiloradFilipovic) (Thanks! 🍻)
+Use VS instead of Sublime? [Check out the VS port of Monarch](https://github.com/MiloradFilipovic/monarch-vs-code) courtesy of [@MiloradFilipovic](https://github.com/MiloradFilipovic) (Thanks! 🍻)
 
 ## Install
 
